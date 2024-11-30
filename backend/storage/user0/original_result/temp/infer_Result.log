@@ -1,0 +1,9 @@
+Baseline: {'GPU Utilization (%)': 0, 'Memory Utilization (%)': 0, 'Total Memory (bytes)': 25757220864, 'Used Memory (bytes)': 381222912, 'Free Memory (bytes)': 25375997952, 'Power Usage (mW)': 11567, 'Temperature (C)': 26}
+1727168780.8742704: {'GPU Utilization (%)': 0, 'Memory Utilization (%)': 0, 'Total Memory (bytes)': 25757220864, 'Used Memory (bytes)': 381222912, 'Free Memory (bytes)': 25375997952, 'Power Usage (mW)': 11567, 'Temperature (C)': 26}
+1727168781.8756843: {'GPU Utilization (%)': 0, 'Memory Utilization (%)': 0, 'Total Memory (bytes)': 25757220864, 'Used Memory (bytes)': 381222912, 'Free Memory (bytes)': 25375997952, 'Power Usage (mW)': 11469, 'Temperature (C)': 26}
+1727168782.87772: {'GPU Utilization (%)': 0, 'Memory Utilization (%)': 0, 'Total Memory (bytes)': 25757220864, 'Used Memory (bytes)': 381222912, 'Free Memory (bytes)': 25375997952, 'Power Usage (mW)': 11439, 'Temperature (C)': 26}
+1727168783.879324: {'GPU Utilization (%)': 0, 'Memory Utilization (%)': 0, 'Total Memory (bytes)': 25757220864, 'Used Memory (bytes)': 381222912, 'Free Memory (bytes)': 25375997952, 'Power Usage (mW)': 11326, 'Temperature (C)': 26}
+Batch num: 1503
+Load time: 0.19520235061645508
+Average Forward delay: 0.0016866991381921216
+Total Inference time: 3.734386444091797

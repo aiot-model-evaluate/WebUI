@@ -1,0 +1,1 @@
+mkdir llama3-8B && mkdir yolo_v10 && mkdir Unet && mkdir GLM4-9B && mkdir LDM && mkdir LSTM && mkdir Qwen2-1.5B && mkdir ResNet && mkdir Bert

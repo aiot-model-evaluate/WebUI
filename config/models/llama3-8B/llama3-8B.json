@@ -1,0 +1,18 @@
+{
+    "infer":{
+        "datasets":[],
+        "hyperparameters":{
+            "epoch":[0,100],    
+            "batch_size":[0,100],
+            "items":[0,100]
+        }
+    },
+    "train":{
+        "datasets":[],
+        "hyperparameters":{
+            "epoch":[0,100],    
+            "batch_size":[0,100],
+            "items":[0,100]
+        }
+    }
+}

@@ -1,0 +1,2 @@
+set /p username=input username:
+mkdir %username% && cd %username% &&  mkdir analyzed_result && mkdir original_result && mkdir code && cd analyzed_result && mkdir temp && mkdir history && cd .. && cd original_result && mkdir temp && mkdir history && cd .. && cd code && mkdir temp && mkdir history && cd ..

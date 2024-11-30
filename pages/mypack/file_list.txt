@@ -1,0 +1,2 @@
+.\..\Temp_File\4090\Bert\inference.csv
+.\..\Temp_File\4090\Bert\inference.json

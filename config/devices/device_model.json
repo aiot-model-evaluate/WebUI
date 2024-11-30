@@ -1,0 +1,9 @@
+{
+    "A100":["Bert", "GLM4-9B", "LDM", "llama3-8B", "LSTM", "Qwen2-1.5B", "ResNet", "Unet", "yolo_v10"],
+    "4090":["Bert", "GLM4-9B", "LDM", "llama3-8B", "LSTM", "Qwen2-1.5B", "ResNet", "Unet", "yolo_v10"],
+    "MLU370-M8":["Bert", "GLM4-9B", "LDM", "llama3-8B", "LSTM", "Qwen2-1.5B", "ResNet", "Unet", "yolo_v10"],
+    "MR-100":["Bert", "GLM4-9B", "LDM", "llama3-8B", "LSTM", "Qwen2-1.5B", "ResNet", "Unet", "yolo_v10"],
+    "BI-150":["Bert", "GLM4-9B", "LDM", "llama3-8B", "LSTM", "Qwen2-1.5B", "ResNet", "Unet", "yolo_v10"],
+    "910A":["Bert", "LDM", "LSTM", "Qwen2-1.5B", "ResNet", "Unet"],
+    "910B":["Bert", "GLM4-9B", "LDM", "llama3-8B", "LSTM", "Qwen2-1.5B", "ResNet", "Unet", "yolo_v10"]
+}
